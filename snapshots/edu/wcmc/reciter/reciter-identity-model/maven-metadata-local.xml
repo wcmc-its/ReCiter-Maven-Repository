@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>edu.wcmc.reciter</groupId>
-  <artifactId>reciter-scopus-model</artifactId>
+  <artifactId>reciter-identity-model</artifactId>
   <versioning>
     <versions>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20161212030814</lastUpdated>
+    <lastUpdated>20161214030500</lastUpdated>
   </versioning>
 </metadata>

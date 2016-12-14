@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>edu.wcmc.reciter</groupId>
-  <artifactId>reciter-scopus-model</artifactId>
+  <artifactId>reciter-identity-model</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20161212030814</lastUpdated>
+    <lastUpdated>20161214030500</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20161212030814</updated>
+        <updated>20161214030500</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20161206040504</updated>
+        <updated>20161214030500</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
