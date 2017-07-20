@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.wcmc.reciter</groupId>
+  <artifactId>pubmed-retrieval-client-interface</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170720072014</lastUpdated>
+  </versioning>
+</metadata>
